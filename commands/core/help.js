@@ -13,7 +13,7 @@ module.exports = {
                 embed: {
                     color: 'RANDOM',
                     author: { name: 'Help panel' },
-                    footer: { text: 'This bot uses a Github project made by Zerio (ZerioDev/Music-bot)' },
+                    footer: { text: 'This bot was made by StixyLovesStitch#1476' },
                     fields: [
                         { name: 'Bot', value: infos },
                         { name: 'Music', value: music },
