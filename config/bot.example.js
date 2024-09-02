@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'token',
         prefix: 'm!',
-        activity: 'moosik',
+        activity: 'm!help',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
